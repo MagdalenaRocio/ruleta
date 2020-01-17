@@ -1,0 +1,23 @@
+body{
+
+	background-color:#00FFFF;
+}
+
+#prizePointer{
+width: 150px;
+height: 150px;
+transform: rotate(-180deg);
+padding: 150px;
+position: absolute;
+z-index: 4;
+margin-top: -170px;
+margin-left: 510px;
+}
+
+#canvas{
+position: absolute;
+z-index: 1;
+margin-top: 100px;
+margin-left: 500px;
+
+}
